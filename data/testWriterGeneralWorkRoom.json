@@ -1,0 +1,16 @@
+{
+    "name": "Jerry's workroom",
+    "decks": [
+        {
+            "flashcards": [{
+                "answer": "vrgf",
+                "prompt": "vfs"
+            }],
+            "title": "asdf"
+        },
+        {
+            "flashcards": [],
+            "title": "qwerty"
+        }
+    ]
+}
